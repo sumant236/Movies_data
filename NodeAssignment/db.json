@@ -1,0 +1,143 @@
+[
+        {
+            "id": 1,
+            "movie_name": "Quills",
+            "rating": "7.3",
+            "release_year": "2000",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMGQ4YmI1ZmItZTEzZS00YWIyLTg2MDEtZTYyNTFhNzZmNmQzXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_UY209_CR1,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 2,
+            "movie_name": "The Man from Earth",
+            "rating": "7.9",
+            "release_year": "2007",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 3,
+            "movie_name": "The Quest",
+            "rating": "5.5",
+            "release_year": "1996",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMWIyYjMxZTMtZGUyNy00N2UwLTgwNjctOWQ1OGMzN2VlMDExXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 4,
+            "movie_name": "Airport",
+            "rating": "6.6",
+            "release_year": "1970",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BOTk5NWJkYjItMjA2MC00NThiLWE4NTctOTFlYjcwOTA1YTM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 5,
+            "movie_name": "Unlikely Hero",
+            "rating": "6.5",
+            "release_year": "2009",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BOTk5NWJkYjItMjA2MC00NThiLWE4NTctOTFlYjcwOTA1YTM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 6,
+            "movie_name": "Bernie",
+            "rating": "6.8",
+            "release_year": "2011",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTk2NDEwODU5M15BMl5BanBnXkFtZTcwNDMwNzc0Nw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 7,
+            "movie_name": "The King's Speech",
+            "rating": "8",
+            "release_year": "2010",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMzU5MjEwMTg2Nl5BMl5BanBnXkFtZTcwNzM3MTYxNA@@._V1_UY209_CR1,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 8,
+            "movie_name": "Butter",
+            "rating": "6.2",
+            "release_year": "2011",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTQxMjY1NzI4M15BMl5BanBnXkFtZTcwNTg4MTMzOA@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 9,
+            "movie_name": "Bottle Stock",
+            "rating": "6.8",
+            "release_year": "2008",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTI5NjgzMzI0MV5BMl5BanBnXkFtZTcwMTI3MTc3MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 10,
+            "movie_name": "Ghost",
+            "rating": "7.1",
+            "release_year": "1990",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMmE4ZjI3YzctNjM0YS00MjBlLWFmYjItNDRiNTk0ZmRkYjVjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 11,
+            "movie_name": "Eight Men Out",
+            "rating": "7.2",
+            "release_year": "1988",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMmE4ZjI3YzctNjM0YS00MjBlLWFmYjItNDRiNTk0ZmRkYjVjXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 12,
+            "movie_name": "Earth Girls Are Easy",
+            "rating": "5.4",
+            "release_year": "1988",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BN2RlYjE4MWItZmY0ZS00YjIzLWEyYTAtMDhkZmQ2Njc4MzgwXkEyXkFqcGdeQXVyMTEwODg2MDY@._V1_UX140_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 13,
+            "movie_name": "Lucky",
+            "rating": "5.3",
+            "release_year": "2011",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTgwNDM0MTcxN15BMl5BanBnXkFtZTcwMTAxNjk1NQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+
+        {
+            "id": 14,
+            "movie_name": "Mermaids",
+            "rating": "6.7",
+            "release_year": "1990",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BYTRiNjIwYjAtZWZmNC00Y2ZmLTk3ODgtMTBmNDRlYzNiOGQ2XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_UX140_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 15,
+            "movie_name": "The Parking Lot Movie",
+            "rating": "7",
+            "release_year": "2010",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTI5NDE4ODY5NF5BMl5BanBnXkFtZTcwMTg4Mzk5Mw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 16,
+            "movie_name": "Marvin's Room",
+            "rating": "6.7",
+            "release_year": "1996",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BOTk0ZDk3YWItZDZlOC00Y2FiLTgxNzYtODZmYzdkYWVmNmRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 17,
+            "movie_name": "Tucker and Dale vs Evil",
+            "rating": "7.5",
+            "release_year": "2010",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BOTk0ZDk3YWItZDZlOC00Y2FiLTgxNzYtODZmYzdkYWVmNmRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 18,
+            "movie_name": "Humboldt County ",
+            "rating": "6.2",
+            "release_year": "2008",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMTg5MDEzMDE1M15BMl5BanBnXkFtZTcwNzgyNzU4MQ@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 19,
+            "movie_name": "$5 a day",
+            "rating": "6.3",
+            "release_year": "2008",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BOTlkZTM3NWItMjVhMS00OGMzLWFkNzEtMmYzOWJmZjUwNjgwXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_UY209_CR3,0,140,209_AL_.jpg"
+        },
+        {
+            "id": 20,
+            "movie_name": " A Bag of Hammers ",
+            "rating": "6.5",
+            "release_year": "2011",
+            "img_src": "https://m.media-amazon.com/images/M/MV5BMzM5ODI0MDYyOV5BMl5BanBnXkFtZTcwNjMxMTA3Nw@@._V1_UY209_CR0,0,140,209_AL_.jpg"
+        }
+    ]
